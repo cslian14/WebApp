@@ -1,0 +1,70 @@
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\csc.exe
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\vbc.exe
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\VBCSCompiler.exe
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.dll.config
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.pdb
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\EntityFramework.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Helpers.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Mvc.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Razor.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Deployment.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Razor.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\EntityFramework.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Razor.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Deployment.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Razor.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Helpers.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Mvc.xml
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.csprojResolveAssemblyReference.cache
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.dll
+c:\users\ayji\documents\visual studio 2015\Projects\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.pdb
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\csc.exe
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\vbc.exe
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.dll.config
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\CasulMyAppCRUD.pdb
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\EntityFramework.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Helpers.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Mvc.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Razor.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Razor.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\EntityFramework.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Razor.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Webpages.Razor.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Helpers.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\bin\System.Web.Mvc.xml
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.csprojResolveAssemblyReference.cache
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.dll
+C:\Users\Ayji\Desktop\3rdyr\DBSYS\WebAppCasul\CasulMyAppCRUD\CasulMyAppCRUD\obj\Debug\CasulMyAppCRUD.pdb
